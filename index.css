@@ -1,3 +1,6 @@
 body {
   background-color: purple;
 }
+div:nth-child(3){
+  font-style: oblique;
+}
