@@ -1,6 +1,9 @@
 body {
   background-color: purple;
 }
+div :nth-child(2){
+  font-size: 20em;
+}
 div :nth-child(3){
   font-style: oblique;
 }
