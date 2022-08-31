@@ -7,3 +7,6 @@ div :nth-child(2) {
 div :nth-child(3) {
   font-style: oblique;
 }
+div :last-child {
+  font-size: 1.75em;
+}
